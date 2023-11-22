@@ -18,6 +18,7 @@ const Text = styled.p`
   margin: auto;
   padding: 60px 0;
   max-width: 800px;
+  text-align: center;
 `;
 
 const HedaderText = styled.div`
