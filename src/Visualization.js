@@ -5,7 +5,7 @@ import Pomnik from "./Pomnik";
 import PomnikDwa from "./PomnikDwa";
 
 import { Canvas } from "@react-three/fiber";
-import { OrbitControls, Stars } from "@react-three/drei";
+import { OrbitControls } from "@react-three/drei";
 
 const Container = styled.div`
   display: flex;
