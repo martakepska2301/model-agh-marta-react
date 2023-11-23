@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/model-agh-marta-react/static/js/main.3d378220.js",
+    "main.js": "/model-agh-marta-react/static/js/main.d871bebb.js",
     "static/js/787.76108e22.chunk.js": "/model-agh-marta-react/static/js/787.76108e22.chunk.js",
     "static/media/pomnik.jpg": "/model-agh-marta-react/static/media/pomnik.5be79c938fafd581325e.jpg",
     "static/media/agh_logo.png": "/model-agh-marta-react/static/media/agh_logo.055ef77c5025a0612e7e.png",
@@ -9,10 +9,10 @@
     "static/media/eye.svg": "/model-agh-marta-react/static/media/eye.e99d74334ad6397152628e2098cbc42b.svg",
     "static/media/pin.svg": "/model-agh-marta-react/static/media/pin.aa0c8e24080229518a4e571c63cac341.svg",
     "static/media/house.svg": "/model-agh-marta-react/static/media/house.60f8c7fb5431a2fd0db53feb35c2a0e1.svg",
-    "main.3d378220.js.map": "/model-agh-marta-react/static/js/main.3d378220.js.map",
+    "main.d871bebb.js.map": "/model-agh-marta-react/static/js/main.d871bebb.js.map",
     "787.76108e22.chunk.js.map": "/model-agh-marta-react/static/js/787.76108e22.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.3d378220.js"
+    "static/js/main.d871bebb.js"
   ]
 }
