@@ -65,7 +65,6 @@ const Visualization = () => {
           <pointLight position={[10, 10, 10]} decay={0} intensity={Math.PI} />
           <PomnikDwa position={[0, 0, 0]} rotation={[0, 1460, 0]} />
           <OrbitControls />
-          <Stars />
         </Canvas>
       </Container>
       <Footer />
